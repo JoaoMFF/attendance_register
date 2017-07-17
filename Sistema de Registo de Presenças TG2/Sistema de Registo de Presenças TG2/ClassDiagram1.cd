@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Metro_TG2.Aluno" Collapsed="true">
+    <Position X="1.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQIKAAAIAkAACAAAECAAgAABEAAIAABAAAAAA=</HashCode>
+      <FileName>Aluno.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Metro_TG2.Consulta" Collapsed="true">
+    <Position X="3.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACCAAAAIKAAAAAABACIARECAQACAAAAAAAgBAADAgA=</HashCode>
+      <FileName>Consulta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Metro_TG2.Docente" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABQAIAACAAABEAIACIAAACQAACAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Docente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Metro_TG2.ESA" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAICBABAAAAACIAAECAAACAAAAAAAABAABAAA=</HashCode>
+      <FileName>ESA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Metro_TG2.ESE" Collapsed="true">
+    <Position X="1.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAICBAAAAAAACIAAECAAACAAAAAAAABAARAAA=</HashCode>
+      <FileName>ESE.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Metro_TG2.ESS" Collapsed="true">
+    <Position X="3.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAICAAAAAAAACIAAECAAACAAAAAAAABAARAAA=</HashCode>
+      <FileName>ESS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Metro_TG2.ESTIG" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABKAABAIAAACIAAACAAAAAAACAAAAAAADgAA=</HashCode>
+      <FileName>ESTIG.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Metro_TG2.Inscrição" Collapsed="true">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>A+D/QAjQMiAEQgUAYNSvYNsDAAAEEAAGAAAAQBADBAY=</HashCode>
+      <FileName>Inscrição.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Metro_TG2.Login" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABgAAAIKQAAAAAAQCAAAGCABAAAAAAAAAABAAABAA=</HashCode>
+      <FileName>Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Metro_TG2.Main" Collapsed="true">
+    <Position X="3.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAMgAAACAAAAAQAAyAAAICAAAAAAFAAAQAAAAAAAA=</HashCode>
+      <FileName>Main..cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Metro_TG2.Program" Collapsed="true">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Metro_TG2.Properties.Resources" Collapsed="true">
+    <Position X="7" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Metro_TG2.Properties.Settings" Collapsed="true">
+    <Position X="1.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAACAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

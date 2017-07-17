@@ -1,0 +1,24 @@
+C:\Users\João\documents\visual studio 2013\Projects\Metro TG2\Metro TG2\bin\Debug\Metro TG2.exe.config
+C:\Users\João\documents\visual studio 2013\Projects\Metro TG2\Metro TG2\obj\Debug\Metro TG2.exe
+C:\Users\João\documents\visual studio 2013\Projects\Metro TG2\Metro TG2\obj\Debug\Metro TG2.pdb
+C:\Users\João\Documents\Visual Studio 2013\Projects\Sistema de Registo de Presenças TG2\Metro TG2\bin\Debug\Sistema de Registo de Presenças TG2.exe.config
+C:\Users\João\Documents\Visual Studio 2013\Projects\Sistema de Registo de Presenças TG2\Metro TG2\bin\Debug\Sistema de Registo de Presenças TG2.exe
+C:\Users\João\Documents\Visual Studio 2013\Projects\Sistema de Registo de Presenças TG2\Metro TG2\bin\Debug\Sistema de Registo de Presenças TG2.pdb
+C:\Users\João\Documents\Visual Studio 2013\Projects\Sistema de Registo de Presenças TG2\Metro TG2\bin\Debug\MetroFramework.Design.dll
+C:\Users\João\Documents\Visual Studio 2013\Projects\Sistema de Registo de Presenças TG2\Metro TG2\bin\Debug\MetroFramework.dll
+C:\Users\João\Documents\Visual Studio 2013\Projects\Sistema de Registo de Presenças TG2\Metro TG2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\João\Documents\Visual Studio 2013\Projects\Sistema de Registo de Presenças TG2\Metro TG2\obj\Debug\Sistema de Registo de Presenças TG2.csprojResolveAssemblyReference.cache
+C:\Users\João\Documents\Visual Studio 2013\Projects\Sistema de Registo de Presenças TG2\Metro TG2\obj\Debug\Metro_TG2.Aluno.resources
+C:\Users\João\Documents\Visual Studio 2013\Projects\Sistema de Registo de Presenças TG2\Metro TG2\obj\Debug\Metro_TG2.Consulta.resources
+C:\Users\João\Documents\Visual Studio 2013\Projects\Sistema de Registo de Presenças TG2\Metro TG2\obj\Debug\Metro_TG2.Docente.resources
+C:\Users\João\Documents\Visual Studio 2013\Projects\Sistema de Registo de Presenças TG2\Metro TG2\obj\Debug\Metro_TG2.Inscrição.resources
+C:\Users\João\Documents\Visual Studio 2013\Projects\Sistema de Registo de Presenças TG2\Metro TG2\obj\Debug\Metro_TG2.Login.resources
+C:\Users\João\Documents\Visual Studio 2013\Projects\Sistema de Registo de Presenças TG2\Metro TG2\obj\Debug\Metro_TG2.ESA.resources
+C:\Users\João\Documents\Visual Studio 2013\Projects\Sistema de Registo de Presenças TG2\Metro TG2\obj\Debug\Metro_TG2.ESE.resources
+C:\Users\João\Documents\Visual Studio 2013\Projects\Sistema de Registo de Presenças TG2\Metro TG2\obj\Debug\Metro_TG2.ESS.resources
+C:\Users\João\Documents\Visual Studio 2013\Projects\Sistema de Registo de Presenças TG2\Metro TG2\obj\Debug\Metro_TG2.ESTIG.resources
+C:\Users\João\Documents\Visual Studio 2013\Projects\Sistema de Registo de Presenças TG2\Metro TG2\obj\Debug\Metro_TG2.Main.resources
+C:\Users\João\Documents\Visual Studio 2013\Projects\Sistema de Registo de Presenças TG2\Metro TG2\obj\Debug\Sistema_de_Registo_de_Presenças_TG2.Properties.Resources.resources
+C:\Users\João\Documents\Visual Studio 2013\Projects\Sistema de Registo de Presenças TG2\Metro TG2\obj\Debug\Sistema de Registo de Presenças TG2.csproj.GenerateResource.Cache
+C:\Users\João\Documents\Visual Studio 2013\Projects\Sistema de Registo de Presenças TG2\Metro TG2\obj\Debug\Sistema de Registo de Presenças TG2.exe
+C:\Users\João\Documents\Visual Studio 2013\Projects\Sistema de Registo de Presenças TG2\Metro TG2\obj\Debug\Sistema de Registo de Presenças TG2.pdb
